@@ -1,6 +1,8 @@
 sources:
   "cci.20240531":
-    url: "https://github.com/nothings/stb/archive/013ac3beddff3dbffafd5177e7972067cd2b5083.zip"
+    url: 
+      - "https://artifactory-hq.materialise.net:443/artifactory/thirdparty_public-generic-dev-local/stb/013ac3beddff3dbffafd5177e7972067cd2b5083.zip"
+      - "https://github.com/nothings/stb/archive/013ac3beddff3dbffafd5177e7972067cd2b5083.zip"
     sha256: "b7f476902bbef1b30f8ecc2d9d95c459c32302c8b559d09b589b5955463b7af8"
   "cci.20240213":
     url: "https://github.com/nothings/stb/archive/ae721c50eaf761660b4f90cc590453cdb0c2acd0.zip"
