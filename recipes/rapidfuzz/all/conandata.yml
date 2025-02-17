@@ -1,4 +1,9 @@
 sources:
+  "3.3.2":
+    url:
+      - "https://artifactory-hq.materialise.net:443/artifactory/thirdparty_public-generic-dev-local/rapidfuzz/v3.3.2.tar.gz"
+      - "https://github.com/rapidfuzz/rapidfuzz-cpp/archive/refs/tags/v3.3.2.tar.gz"
+    sha256: "cf619bb1e7a525472077e76287041d9cd89e97073a24095bcb97f81897b0c1d4"
   "3.1.1":
     url: "https://github.com/rapidfuzz/rapidfuzz-cpp/archive/refs/tags/v3.1.1.tar.gz"
     sha256: "5a72811a9f5a890c69cb479551c19517426fb793a10780f136eb482c426ec3c8"
