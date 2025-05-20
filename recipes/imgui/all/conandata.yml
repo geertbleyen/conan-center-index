@@ -3,7 +3,9 @@ sources:
     url: "https://github.com/ocornut/imgui/archive/v1.91.8.tar.gz"
     sha256: "db3a2e02bfd6c269adf0968950573053d002f40bdfb9ef2e4a90bce804b0f286"
   "1.91.8-docking":
-    url: "https://github.com/ocornut/imgui/archive/v1.91.8-docking.tar.gz"
+    url: 
+    - "https://artifactory-hq.materialise.net:443/artifactory/thirdparty_public-generic-dev-local/imgui/v1.91.8-docking.tar.gz"
+    - "https://github.com/ocornut/imgui/archive/v1.91.8-docking.tar.gz"
     sha256: "55f5e65abea635f2a8bfa9a92cd966448a363a262cf6dead7cc662fb0ab37612"
   "1.91.5":
     url: "https://github.com/ocornut/imgui/archive/v1.91.5.tar.gz"
